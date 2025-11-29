@@ -92,7 +92,7 @@ This project includes a Windows build.
 
 To play:
 
-1. Navigate to the **Build** folder.  
+1. Navigate to the **Build** folder.  if there is no **Build** folder you can build it on UnityHub by navigating to Build option so it can create the 'exe' file for you
 2. Run the `RobotDrop.exe` file.
 
 ---
